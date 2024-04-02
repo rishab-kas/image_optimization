@@ -1,0 +1,7 @@
+torch==2.2.1
+ffmpeg-python==0.2.0
+PyMatting==1.1.12
+moviepy==1.0.3
+hsh==1.1.0
+torchvision==0.17.1
+scikit-image==0.22.0
